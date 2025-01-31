@@ -31,7 +31,7 @@ I’m a Cloud and DevOps Engineer experienced in designing, automating, and opti
 
  ## 📫 How to Reach Me
 
-💼 LinkedIn: linkedin.com/in/bhanukolli
+💼 LinkedIn: linkedin.com/in/bhanukolli <br>
 🐦 Twitter: @bhanukolli
 
 🔥 Let’s connect and build something amazing! 🚀
